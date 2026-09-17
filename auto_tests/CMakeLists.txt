@@ -55,6 +55,7 @@ auto_test(tox_dispatch)
 auto_test(tox_new)
 auto_test(tox_strncasecmp)
 auto_test(version)
+auto_test(tox_ngc_public_join)
 
 add_subdirectory(scenarios)
 

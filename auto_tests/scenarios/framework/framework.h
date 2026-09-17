@@ -13,7 +13,7 @@
 #include "../../../toxcore/tox_dispatch.h"
 
 // --- Constants ---
-#define TOX_SCENARIO_TICK_MS 50
+#define TOX_SCENARIO_TICK_MS 100
 
 // --- Opaque Types ---
 typedef struct ToxNode ToxNode;
